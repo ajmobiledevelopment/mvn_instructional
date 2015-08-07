@@ -1,0 +1,6 @@
+						<propertyfile file="target/classes/my_bundle.properties"
+comment="comment in the file.">
+<!-- list or key / value pair to be inserted in the generated properties file.  -->
+<entry key="key1" value="${basedir}/value1" />
+<entry key="key2" value="${basedir}/value2" />
+</propertyfile>
